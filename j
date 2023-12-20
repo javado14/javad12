@@ -50,7 +50,6 @@ mkdir nulink
 
 cp xxxxxxxxxxxxxxxxxxxxx /root/nulink
 
-به جای x ها از آدرسی که بالاتر بهتون داده استفاده کنید ، دقت کنید کد هارو درست کپی کنید و مراقب باشید د وارد کنید
 
 cp /root/geth-linux-amd64-1.10.23-d901d853/keystore/UTC--2022-09-16T16-46-42.233370072Z--e686bf9b57cec541e0f46f2c0a41bc8836b9b270 /root/nulink
 
