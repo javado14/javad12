@@ -38,8 +38,6 @@ cd geth-linux-amd64-1.10.23-d901d853/
 
 ./geth account new --keystore ./keystore
 
-حواستون باشه توی کد بالا اون نقطه اول کد رو هم باید  کپی کنید
-
 بعد از وارد کردن پسو
 cd $home
 
