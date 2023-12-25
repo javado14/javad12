@@ -27,9 +27,6 @@ sudo docker run hello-world
 
 sudo apt update && sudo apt upgrade -y
 
-
-apt install python3-pip -y
-
 wget https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.10.23-d901d853.tar.gz
 
 tar -xvzf geth-linux-amd64-1.10.23-d901d853.tar.gz
