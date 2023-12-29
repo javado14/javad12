@@ -69,9 +69,6 @@ python -c "import nulink"
 nulink --help
 
 export NULINK_KEYSTORE_PASSWORD=xxxxxxxxxxxx
-
-به جای ایکس ها اون پسورد که بالاتر وارد کردید و گفتم در ادامه لازمون میشه رو وارد کنید
-
 export NULINK_OPERATOR_ETH_PASSWORD=xxxxxxxxxx
 
 docker run -it --rm \
