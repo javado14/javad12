@@ -50,7 +50,7 @@ python -c "import nulink"
 
 nulink --help
 
-export NULINK_KEYSTORE_PASSWORD=xxxxxxxxxx
+export NULINK_KEYSTORE_PASSWORD=xxxxxxxxx
 export NULINK_OPERATOR_ETH_PASSWORD=xxxxxxxxxx
 docker run -it --rm \
 -p 9151:9151 \
