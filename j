@@ -48,7 +48,6 @@ source /root/nulink-venv/bin/activate
 python -c "import nulink"
 
 nulink --help
-
 export NULINK_KEYSTORE_PASSWORD=xxxxxxxxx
 export NULINK_OPERATOR_ETH_PASSWORD=xxxxxxxx
 docker run -it --rm \
